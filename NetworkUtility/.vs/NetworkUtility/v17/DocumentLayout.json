@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\DynamicQR\\NetworkUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC69BC0-2919-4326-84AA-D4DCCAAC24C4}|..\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj|b:\\dynamicqr\\networkutitity.tests\\services.tests\\networkservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|b:\\dynamicqr\\networkutility\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|solutionrelative:services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC69BC0-2919-4326-84AA-D4DCCAAC24C4}|..\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj|b:\\dynamicqr\\networkutitity.tests\\networkutitity.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|b:\\dynamicqr\\networkutility\\networkutility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|solutionrelative:networkutility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC69BC0-2919-4326-84AA-D4DCCAAC24C4}|..\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj|b:\\dynamicqr\\networkutitity.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|b:\\dynamicqr\\networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E0E365-5B3B-4D32-9890-30EF24C0C1EA}|NetworkUtility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkUtitity.Tests",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj",
+              "RelativeToolTip": "..\\NetworkUtitity.Tests\\NetworkUtitity.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T03:21:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtility\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "Services\\NetworkService.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtility\\Services\\NetworkService.cs",
+              "RelativeToolTip": "Services\\NetworkService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:20:41.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkUtility",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtility\\NetworkUtility.csproj",
+              "RelativeDocumentMoniker": "NetworkUtility.csproj",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtility\\NetworkUtility.csproj",
+              "RelativeToolTip": "NetworkUtility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T03:19:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtitity.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtitity.Tests\\UnitTest1.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtitity.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NetworkUtitity.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:17:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtility\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:16:56.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkServiceTest.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtitity.Tests\\Services.Tests\\NetworkServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtitity.Tests\\Services.Tests\\NetworkServiceTest.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtitity.Tests\\Services.Tests\\NetworkServiceTest.cs",
+              "RelativeToolTip": "..\\NetworkUtitity.Tests\\Services.Tests\\NetworkServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:22:11.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

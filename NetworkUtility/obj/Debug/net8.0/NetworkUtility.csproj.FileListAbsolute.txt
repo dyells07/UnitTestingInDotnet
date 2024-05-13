@@ -1,0 +1,14 @@
+B:\DynamicQR\NetworkUtility\bin\Debug\net8.0\NetworkUtility.exe
+B:\DynamicQR\NetworkUtility\bin\Debug\net8.0\NetworkUtility.deps.json
+B:\DynamicQR\NetworkUtility\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+B:\DynamicQR\NetworkUtility\bin\Debug\net8.0\NetworkUtility.dll
+B:\DynamicQR\NetworkUtility\bin\Debug\net8.0\NetworkUtility.pdb
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.dll
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\refint\NetworkUtility.dll
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.pdb
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+B:\DynamicQR\NetworkUtility\obj\Debug\net8.0\ref\NetworkUtility.dll

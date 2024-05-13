@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\DynamicQR\\DemoUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805D260B-9591-4577-8FBA-DD884BC255BA}|..\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj|b:\\dynamicqr\\networkutility.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44694CF0-1F3E-4423-81BB-E303477C42EE}|..\\NetworkUtility\\NetworkUtility.csproj|b:\\dynamicqr\\networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|b:\\dynamicqr\\demounittest\\tests\\demofuntiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|solutionrelative:tests\\demofuntiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|b:\\dynamicqr\\demounittest\\demotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|solutionrelative:demotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|b:\\dynamicqr\\demounittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134D5585-8F78-459D-92D4-AE285149C1EA}|DemoUnitTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtility.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtility.Tests\\UnitTest1.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtility.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NetworkUtility.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:15:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\NetworkUtility\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtility\\Program.cs",
+              "ToolTip": "B:\\DynamicQR\\NetworkUtility\\Program.cs",
+              "RelativeToolTip": "..\\NetworkUtility\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:14:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoFuntionTest.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\DemoUnitTest\\Tests\\DemoFuntionTest.cs",
+              "RelativeDocumentMoniker": "Tests\\DemoFuntionTest.cs",
+              "ToolTip": "B:\\DynamicQR\\DemoUnitTest\\Tests\\DemoFuntionTest.cs",
+              "RelativeToolTip": "Tests\\DemoFuntionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:58:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoTest.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\DemoUnitTest\\DemoTest.cs",
+              "RelativeDocumentMoniker": "DemoTest.cs",
+              "ToolTip": "B:\\DynamicQR\\DemoUnitTest\\DemoTest.cs",
+              "RelativeToolTip": "DemoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:53:11.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\DynamicQR\\DemoUnitTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\DynamicQR\\DemoUnitTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:52:18.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+B:\DynamicQR\DemoUnitTest\bin\Debug\net8.0\DemoUnitTest.exe
+B:\DynamicQR\DemoUnitTest\bin\Debug\net8.0\DemoUnitTest.deps.json
+B:\DynamicQR\DemoUnitTest\bin\Debug\net8.0\DemoUnitTest.runtimeconfig.json
+B:\DynamicQR\DemoUnitTest\bin\Debug\net8.0\DemoUnitTest.dll
+B:\DynamicQR\DemoUnitTest\bin\Debug\net8.0\DemoUnitTest.pdb
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.AssemblyInfoInputs.cache
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.AssemblyInfo.cs
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.csproj.CoreCompileInputs.cache
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.dll
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\refint\DemoUnitTest.dll
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.pdb
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\DemoUnitTest.genruntimeconfig.cache
+B:\DynamicQR\DemoUnitTest\obj\Debug\net8.0\ref\DemoUnitTest.dll
