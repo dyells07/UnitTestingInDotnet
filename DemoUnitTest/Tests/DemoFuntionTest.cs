@@ -12,11 +12,11 @@ namespace DemoUnitTest.Tests
         {
             try
             {
-                //Arrange - Go get your variables
+                
                 int num = 1;
                 DemoTest demoTest = new DemoTest();
 
-                //Act - executute the fuction
+                
                 int result = demoTest.ReturnDemoIfZero(num);
 
                 //Assert - Whatever is returned is it what you want 
